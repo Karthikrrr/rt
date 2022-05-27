@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/home/rohit/Sem 3 pract/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2572796755.index
+1051373206.index
+2200994897.index
+1939774620.index
+1604428455.index
+2177994425.index
+2231625733.index
